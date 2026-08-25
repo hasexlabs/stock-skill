@@ -1,6 +1,6 @@
 ---
 name: picks-and-shovels-research
-description: Personal-use, evidence-backed public-company research for overlooked picks-and-shovels businesses. Use when screening small and micro-cap enablers in emerging industries, especially physical AI, aerospace/defense, semiconductors, advanced materials, power, water, robotics, sensors, and scientific instrumentation; comparing competitors and moats; ranking finalists; analyzing two-year prices; or estimating fixed and staged entry prices for a small budget.
+description: Personal-use, evidence-backed public-company research for overlooked picks-and-shovels businesses. Use when screening small and micro-cap enablers in emerging industries, especially physical AI, aerospace/defense, semiconductors, advanced materials, power, water, robotics, sensors, and scientific instrumentation; comparing competitors and moats; ranking finalists; running parallel/Wide Research comparative synthesis; analyzing financial quality and dilution; testing valuation and sensitivities; analyzing catalysts and risks; analyzing two-year prices; or estimating fixed and staged entry prices with strict no-chase rules for a small budget.
 ---
 
 # Picks-and-Shovels Research
@@ -194,6 +194,7 @@ Before delivery, confirm that:
 - Pre-revenue and cash-burning companies are not scored like proven compounders.
 - Entry prices are conditional targets, not guarantees or execution instructions.
 - The final answer is clear about uncertainty and thesis invalidation.
+- Comparative reports use standardized parallel evidence packets, normalized comparison units, valuation sensitivities, catalyst confirmation gates, risk kill criteria, and a pre-committed no-chase ceiling.
 
 ## Finance communication standard
 
