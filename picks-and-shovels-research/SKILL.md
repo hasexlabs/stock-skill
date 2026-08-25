@@ -156,7 +156,13 @@ For a small budget, use the budget framework below:
 
 Do not invest money needed for essentials. If fractional shares are unavailable, do not manufacture a five-name portfolio with a very small budget. Do not execute a trade or ask for credentials.
 
-### 10. Deliver the report
+### 10. Comparative synthesis with parallel processing
+
+When the user requests a comparative report, ranking, peer analysis, fixed entry prices, catalysts, risks, or a strict no-chase framework, read `references/comparative_synthesis.md` and use its standardized evidence-packet workflow. Run one identical research packet per company in parallel when there are five or more independent candidates, then normalize fiscal periods, currencies, share-count bases, peer definitions, and reported versus derived metrics before ranking. Preserve an evidence ledger and an elimination log.
+
+The comparative report must cover competitors and substitutes, moat evidence, financial quality, valuation at the requested fixed entry prices, catalysts with confirmation gates, risks with thesis-invalidation signals, and a strict no-chase framework. A fixed entry price is a conditional analytical threshold, never a guarantee or trade instruction. Set a hard ceiling before discussing catalysts, and output “no fixed entry price—wait for evidence” when valuation, downside, or thesis-integrity gates fail.
+
+### 11. Deliver the report
 
 Use this order: executive conclusion; scope and methodology; entity cards; broad universe; elimination log; ranked shortlist; score table; detailed company analyses; competitor/moat comparison; newer-method assessment; financial and valuation table; price/entry table; budget-aware sizing; diligence checklist; limitations; and References.
 
@@ -169,6 +175,7 @@ Cite factual claims inline with numbered Markdown reference links. Include a Ref
 - Read `references/personal_budget_playbook.md` when the user provides a small account or asks how much to allocate.
 - Copy `templates/company_entity_card.md` when beginning a named-company task.
 - Copy `templates/report_skeleton.md` for the final report.
+- Read `references/comparative_synthesis.md` for parallel comparative reports, fixed-entry-price valuation, catalyst confirmation, risk registers, and no-chase rules.
 - Run `scripts/price_history.py` for real daily price statistics; it accepts one or more tickers, `--years`, and `--out-dir`.
 
 ## Quality-control checklist
